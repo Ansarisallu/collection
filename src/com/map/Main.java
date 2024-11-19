@@ -27,6 +27,7 @@ public class Main {
             ii.setValue(ii.getValue().toUpperCase());
         }
         System.out.println(hm);
+        System.out.println(hm.containsValue(2));//O(1) timecomplexity
 
 
     }
