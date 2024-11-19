@@ -1,4 +1,4 @@
-package com.map;
+package com.map.HashMap;
 
 public class HashDemo {
     public static void main(String[] args) {
