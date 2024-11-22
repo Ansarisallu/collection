@@ -10,6 +10,8 @@ public class Main {
         hm.put(1,"salauddin");
         hm.put(2,"monu");
         hm.put(3,"kallu");
+        String sallu = hm.getOrDefault(4, "sallu");
+        System.out.println(sallu);
         System.out.println(hm);
         String s = hm.get(1);
         System.out.println(s);
